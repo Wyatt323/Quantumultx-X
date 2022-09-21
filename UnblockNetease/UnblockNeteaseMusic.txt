@@ -1,1 +1,1 @@
-http=wyattvip.xyz:10790, fast-open=false, udp-relay=false, tag=🎧网易Music
+http=wyattvip.xyz:8080, fast-open=false, udp-relay=false, tag=🎧网易云Music
