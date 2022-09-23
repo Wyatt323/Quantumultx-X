@@ -1,3 +1,2 @@
-#Apple Mail中谷歌邮箱的规则
 HOST-SUFFIX,imap.gmail.com,Gmail
 HOST-SUFFIX,smtp.gmail.com,Gmail
